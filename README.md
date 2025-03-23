@@ -18,7 +18,7 @@
 ## Connect With Me
 - **LinkedIn:** [linkedin.com/in/brendon-peters-comp-sci](https://www.linkedin.com/in/brendon-peters-comp-sci)
 - **Portfolio:** [https://bjpeters2027.github.io/](https://bjpeters2027.github.io/)
-s
+
 <!--
 **bjpeters2027/bjpeters2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
