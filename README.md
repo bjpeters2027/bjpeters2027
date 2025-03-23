@@ -1,5 +1,24 @@
-## Hi there 👋
+# I'm Brendon Peters
 
+ **Computer Science & Data Science Student | Software Developer**  
+ **Worcester Polytechnic Institute (WPI) | Class of 2027**
+
+---
+
+## About Me
+- Passionate about **science, technology, and problem-solving**.
+- Specializing in **software development** and **data analytics**.
+- Interested in **web development, machine learning, and, embedded systems**.
+- Constantly learning and applying knowledge to real-world problems.
+
+## Tech Skills
+- **Languages:** Python, C#, Java, TypeScript, C/C++, HTML5, CSS
+- **Frameworks & Tools:** .NET, React, Pandas, NumPy, Git
+
+## Connect With Me
+- **LinkedIn:** [linkedin.com/in/brendon-peters-comp-sci](https://www.linkedin.com/in/brendon-peters-comp-sci)
+- **Portfolio:** [https://bjpeters2027.github.io/](https://bjpeters2027.github.io/)
+s
 <!--
 **bjpeters2027/bjpeters2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
